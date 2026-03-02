@@ -1,8 +1,3 @@
----
-name: maps-itinerary
-description: Plan, update, or modify a travel itinerary from a Google Maps saved list. Use when the user invokes any of these commands: (1) /maps-itinerary <url> — create a new itinerary from a Google Maps list; (2) /maps-itinerary update <url> <schedule.md> — re-scrape the list and incorporate any new places into an existing schedule; (3) /maps-itinerary ask <url> <schedule.md> <question> — answer a question or apply an instruction to alter an existing schedule.
----
-
 # /maps-itinerary
 
 Plan, update, or modify a travel itinerary from a Google Maps saved list.
